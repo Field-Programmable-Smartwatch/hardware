@@ -1,0 +1,25 @@
+| Component Description             | QTY | Ref Des                            | Mfg P/N #                     | Manufacturer         | Distributor P/N # |
+| Microcontroller                   |   1 | IC2                                | STM32WB55CEU6                 | STMicroelectronics   | CUSTOMER SUPPLIED |
+| 1u Capacitor 0603                 |   3 | C1, C5, C20                        | GCG188L8EE105KA07D            | Murata Electronics   | CUSTOMER SUPPLIED |
+| 100n Capacitor 0402               |   8 | C6, C7, C8, C9, C10, C12, C14, C17 | GCM155R71C104KA55D            | Murata Electronics   | CUSTOMER SUPPLIED |
+| 4.7u Capacitor 0402               |   2 | C11, C19                           | GRM035R60J475ME15J            | Murata Electronics   | CUSTOMER SUPPLIED |
+| 100p Capacitor 0402               |   1 | C13                                | C0402C101J5GAC7411            | KEMET                | CUSTOMER SUPPLIED |
+| 1u Capacitor 0402                 |   1 | C21                                | GRM155C81E105ME11J            | Murata Electronics   | CUSTOMER SUPPLIED |
+| Red LED 0603                      |   1 | D1                                 | 155060SS75300                 | Wurth Elektronik     | CUSTOMER SUPPLIED |
+| Green LED 0603                    |   1 | D2                                 | 155060VS75300                 | Wurth Elektronik     | CUSTOMER SUPPLIED |
+| Ferrite Bead 0603                 |   1 | FB1                                | WLBD1608K1U601TB              | Walsin               | CUSTOMER SUPPLIED |
+| 2.4 GHz Matched filter            |   1 | FL1                                | MLPF-WB55-01E3                | STMicroelectronics   | CUSTOMER SUPPLIED |
+| 1-cell 1-A linear battery charger |   1 | IC1                                | BQ24040DSQR                   | Texas Instruments    | CUSTOMER SUPPLIED |
+| USB-C Connector                   |   1 | J3                                 | DX07S016JA1R1500              | JAE Electronics      | CUSTOMER SUPPLIED |
+| 10n Inductor 0402                 |   1 | L1                                 | MLJ1005HXG91NJTD0B            | TDK                  | CUSTOMER SUPPLIED |
+| 3.3v Voltage Regulator            |   1 | PS1                                | LD39050PU33R                  | STMicroelectronics   | CUSTOMER SUPPLIED |
+| PMOS Transistor                   |   1 | Q1                                 | SSM3J325F,LF                  | Toshiba              | CUSTOMER SUPPLIED |
+| 2.87k Resistor 0402               |   1 | R1                                 | ERJ-2RKF2871X                 | Panasonic            | CUSTOMER SUPPLIED |
+| 2k Resistor 0402                  |   1 | R2                                 | ERA-2VEB2201X                 | Panasonic            | CUSTOMER SUPPLIED |
+| 1.5k Resistor 0402                |   2 | R3, R6                             | ERA-2VEB1501X                 | Panasonic            | CUSTOMER SUPPLIED |
+| 100k Resistor 0402                |   1 | R7                                 | NCU15WF104D60RC               | Murata Electronics   | CUSTOMER SUPPLIED |
+| 5.1k Resistor 0402                |   1 | R9                                 | ERJ-2RHD512X                  | Panasonic            | CUSTOMER SUPPLIED |
+| 32Mhz Crystal                     |   1 | Y1                                 | NX2016SA-32MHZ-EXS00A-CS11336 | NDK America, Inc.    | CUSTOMER SUPPLIED |
+| Switch                            |   1 | SW2                                | CFS-0102TA                    | Nidec Copal          | CUSTOMER SUPPLIED |
+| Antenna                           |   1 | AE1                                | W3006                         | PulseLarsen Antennas | CUSTOMER SUPPLIED |
+
