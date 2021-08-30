@@ -1426,7 +1426,7 @@
     )
   )
 
-  (gr_line (start 178 62.5) (end 153.7 62.51) (layer Edge.Cuts) (width 0.05) (tstamp 6117EFA7))
+  (gr_line (start 177.05 62.5) (end 154.6 62.51) (layer Edge.Cuts) (width 0.05) (tstamp 6117EFA7))
   (gr_text PA0 (at 157.39 69.71 90) (layer F.SilkS) (tstamp 6117EDDF)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
@@ -1580,7 +1580,7 @@
   (gr_text J2 (at 159.36 63.55) (layer F.SilkS) (tstamp 6117ED9F)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (gr_line (start 153.7 62.51) (end 153.7 94.01) (layer Edge.Cuts) (width 0.05) (tstamp 611B1131))
+  (gr_line (start 154.6 62.51) (end 154.6 94.01) (layer Edge.Cuts) (width 0.05) (tstamp 611B1131))
   (gr_text GND (at 157.39 67.05 90) (layer F.SilkS) (tstamp 6117ECFA)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
@@ -1593,8 +1593,8 @@
   (gr_text 3.3V (at 157.49 64.62 90) (layer F.SilkS) (tstamp 6117ECF7)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (gr_line (start 178 94.01) (end 178 62.5) (layer Edge.Cuts) (width 0.05) (tstamp 6117ECD7))
-  (gr_line (start 153.7 94.01) (end 178 94.01) (layer Edge.Cuts) (width 0.05) (tstamp 6117ECD6))
+  (gr_line (start 177.05 94.01) (end 177.05 62.5) (layer Edge.Cuts) (width 0.05) (tstamp 6117ECD7))
+  (gr_line (start 154.6 94.01) (end 177.05 94.01) (layer Edge.Cuts) (width 0.05) (tstamp 6117ECD6))
 
   (segment (start 169.11 88.187) (end 169.11 88.877) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 169.11 88.877) (end 168.087 89.9) (width 0.25) (layer F.Cu) (net 1))
